@@ -1,7 +1,7 @@
-# Semester2-FinalSprint - Dog Store
+# React Dog Store
 
 
-Dog Store is a React application designed to provide a user-friendly interface for browsing and purchasing dog-related products. This project follows the design principles taught by Levin in UI/UX and Noman in JavaScript and React, ensuring a reasonable user experience with attention to the aesthetics of the page.
+Dog Store is a React application designed to provide a user-friendly interface for browsing and purchasing dog-related products. 
 
 ## Table of Contents
 
