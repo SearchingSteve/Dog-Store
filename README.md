@@ -83,11 +83,18 @@ Then follow these steps:
 4. Submit a pull request.
 
 ## License
-This project is provided for personal use only. Redistribution, modification, or commercial use in any form is strictly prohibited without prior written permission from the author.
 
+This project is provided for **personal use only**. Redistribution, modification, or commercial use in any form is strictly prohibited without prior written permission from the author.
 
-## Authors
-Michelle Anderson, Sara Woodford, Stephen Crocker
+For detailed license terms, refer to the [LICENSE](./LICENSE.md) file.
+
+## Credits
+
+This project, **E-Commerce Platform**, was collaboratively developed by a dedicated team:
+
+- **[Sara Woodford](https://github.com/sarwoodford)** 
+- **[Michelle Anderson](https://github.com/MAnderson100)** 
+- **[Stephen Crocker](https://github.com/SearchingSteve)** 
 
 ## Dated
 Aug 11, 2024
