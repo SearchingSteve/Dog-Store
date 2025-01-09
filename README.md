@@ -90,7 +90,7 @@ For detailed license terms, refer to the [LICENSE](./LICENSE.md) file.
 
 ## Credits
 
-This project, **E-Commerce Platform**, was collaboratively developed by a dedicated team:
+This project was collaboratively developed by a dedicated team:
 
 - **[Sara Woodford](https://github.com/sarwoodford)** 
 - **[Michelle Anderson](https://github.com/MAnderson100)** 
